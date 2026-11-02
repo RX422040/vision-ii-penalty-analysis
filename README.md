@@ -65,4 +65,4 @@ Useful records: [training and deployment](docs/TRAINING_AND_DEPLOYMENT_2026-10-2
 
 This repository preserves the original project history and incorporates the team's public implementation updates through [`3fb9d4a`](https://github.com/Gabric-cau/ind5003-vision-ii/commit/3fb9d4a46bc9aed12cc6202a70a99bcb534c7d9a). The [team implementation repository](https://github.com/Gabric-cau/ind5003-vision-ii) hosts the portable releases and development records. Incorporating these commits retains their authorship; the project is group work.
 
-The linked final PDF is the supplied 22-page final file, published without content changes. SHA-256: `af5eea2a08240bdba2790ede83418c8aa31b10ddc967665b6be7f90a3c69fc2f`. Public project summary updated **2 November 2026**.
+The linked final PDF is the supplied 22-page final file, published without content changes. SHA-256: `fadd945c94cfb1880ba2fcc8a2720cb48d8d60c9da32197e79bc4a8b7fe37e52`. Public project summary updated **2 November 2026**.
